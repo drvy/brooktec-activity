@@ -8,5 +8,4 @@
         echo "cvmfl";
         echo "oryyy";
         echo "txirr";
-        echo "xldva";
 ?>
