@@ -7,5 +7,4 @@
         echo "gglgx";
         echo "cvmfl";
         echo "oryyy";
-        echo "txirr";
 ?>
