@@ -7,5 +7,4 @@
         echo "gglgx";
         echo "anena";
         echo "aeimk";
-        echo "gwjht";
 ?>
