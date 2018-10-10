@@ -5,5 +5,4 @@
         echo "xhill";
         echo "rgaaj";
         echo "gglgx";
-        echo "hteym";
 ?>
