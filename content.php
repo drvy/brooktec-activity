@@ -6,5 +6,4 @@
         echo "rgaaj";
         echo "gglgx";
         echo "ayxua";
-        echo "jfktn";
 ?>
