@@ -8,5 +8,4 @@
         echo "ayxua";
         echo "yvbvs";
         echo "uaean";
-        echo "vfqea";
 ?>
