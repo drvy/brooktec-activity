@@ -10,5 +10,4 @@
         echo "uaean";
         echo "ohqtp";
         echo "ddkdt";
-        echo "tynhf";
 ?>
