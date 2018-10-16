@@ -13,5 +13,4 @@
         echo "kdxul";
         echo "xklxu";
         echo "ukmrv";
-        echo "codug";
 ?>
