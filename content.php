@@ -12,5 +12,4 @@
         echo "ddkdt";
         echo "enlwu";
         echo "dmkts";
-        echo "hntgb";
 ?>
