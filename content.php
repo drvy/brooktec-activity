@@ -11,5 +11,4 @@
         echo "ohqtp";
         echo "ddkdt";
         echo "enlwu";
-        echo "dmkts";
 ?>
