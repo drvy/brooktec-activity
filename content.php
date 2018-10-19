@@ -12,5 +12,4 @@
         echo "ddkdt";
         echo "ixnmg";
         echo "uauqv";
-        echo "ljocv";
 ?>
