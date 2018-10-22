@@ -13,5 +13,4 @@
         echo "lwegi";
         echo "qnjfi";
         echo "cgpck";
-        echo "sarul";
 ?>
