@@ -16,5 +16,4 @@
         echo "nufbg";
         echo "qqgqp";
         echo "ycjun";
-        echo "btdpy";
 ?>
