@@ -27,6 +27,5 @@
         echo "pwnsl";
         echo "vjohh";
         echo "amiho";
-        echo "vqafb";
-        echo "rtlpa";
+        echo "ykfik";
 ?>
