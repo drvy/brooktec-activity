@@ -37,5 +37,4 @@
         echo "dpifd";
         echo "euvmy";
         echo "llcsr";
-        echo "xkyyk";
 ?>
