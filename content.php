@@ -39,6 +39,5 @@
         echo "llcsr";
         echo "jnhvl";
         echo "yivjt";
-        echo "eklpt";
-        echo "votpf";
+        echo "iudvt";
 ?>
