@@ -47,5 +47,4 @@
         echo "gixww";
         echo "ejkye";
         echo "ydmbc";
-        echo "mbeyr";
 ?>
