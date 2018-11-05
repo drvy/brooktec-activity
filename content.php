@@ -46,5 +46,4 @@
         echo "rklpa";
         echo "gixww";
         echo "tiwew";
-        echo "salxs";
 ?>
