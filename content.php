@@ -48,5 +48,4 @@
         echo "tiwew";
         echo "salxs";
         echo "bbljb";
-        echo "gdgvc";
 ?>
