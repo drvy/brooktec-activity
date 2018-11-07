@@ -78,5 +78,4 @@
         echo "ucmio";
         echo "huqri";
         echo "kphpe";
-        echo "anbkd";
 ?>
