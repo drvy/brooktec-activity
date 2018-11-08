@@ -77,5 +77,5 @@
         echo "ymdtb";
         echo "ucmio";
         echo "huqri";
-        echo "nsutc";
+        echo "lrnkx";
 ?>
