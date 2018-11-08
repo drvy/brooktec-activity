@@ -80,6 +80,4 @@
         echo "lrnkx";
         echo "idjdt";
         echo "esyfl";
-        echo "lpjdm";
-        echo "gbarw";
 ?>
