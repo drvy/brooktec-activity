@@ -84,6 +84,4 @@
         echo "mjvrl";
         echo "rxcwq";
         echo "wowjr";
-        echo "vbgtm";
-        echo "qcqgb";
 ?>
