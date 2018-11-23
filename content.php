@@ -117,5 +117,4 @@
         echo "eitdv";
         echo "wespc";
         echo "nxgoo";
-        echo "qbukb";
 ?>
