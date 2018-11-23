@@ -115,5 +115,4 @@
         echo "lismh";
         echo "dahqr";
         echo "eitdv";
-        echo "wespc";
 ?>
