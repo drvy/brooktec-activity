@@ -151,5 +151,4 @@
         echo "ljkjt";
         echo "ymold";
         echo "jfmmh";
-        echo "qidhd";
 ?>
