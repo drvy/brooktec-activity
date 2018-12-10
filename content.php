@@ -159,5 +159,4 @@
         echo "jlxcr";
         echo "giffs";
         echo "fdipg";
-        echo "uxxfx";
 ?>
