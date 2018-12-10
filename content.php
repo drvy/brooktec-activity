@@ -160,5 +160,4 @@
         echo "giffs";
         echo "fdipg";
         echo "uxxfx";
-        echo "txuhu";
 ?>
