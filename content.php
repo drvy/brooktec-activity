@@ -158,5 +158,4 @@
         echo "jsdiq";
         echo "jlxcr";
         echo "giffs";
-        echo "fdipg";
 ?>
