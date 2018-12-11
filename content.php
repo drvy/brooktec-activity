@@ -157,5 +157,4 @@
         echo "tiehi";
         echo "jsdiq";
         echo "jlxcr";
-        echo "giffs";
 ?>
