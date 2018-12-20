@@ -175,5 +175,4 @@
         echo "okjnp";
         echo "nghds";
         echo "cdpcl";
-        echo "wbbiv";
 ?>
