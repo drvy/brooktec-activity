@@ -184,4 +184,10 @@
         echo "pnxem";
         echo "hcoce";
         echo "qsmhy";
+        echo "rujky";
+        echo "sywts";
+        echo "decfo";
+        echo "mbgjh";
+        echo "papcm";
+        echo "bknsh";
 ?>
