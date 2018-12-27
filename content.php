@@ -189,5 +189,4 @@
         echo "decfo";
         echo "mbgjh";
         echo "papcm";
-        echo "bknsh";
 ?>
