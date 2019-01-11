@@ -192,6 +192,4 @@
         echo "sttcp";
         echo "wubbu";
         echo "opouq";
-        echo "gxrsc";
-        echo "ydnuh";
 ?>
