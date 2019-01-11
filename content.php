@@ -192,5 +192,5 @@
         echo "sttcp";
         echo "wubbu";
         echo "aldfs";
-        echo "dvudp";
+        echo "svupa";
 ?>
