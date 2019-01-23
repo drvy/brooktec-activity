@@ -215,5 +215,4 @@
         echo "pdrnc";
         echo "feoft";
         echo "osusd";
-        echo "npbtn";
 ?>
