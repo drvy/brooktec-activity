@@ -225,5 +225,4 @@
         echo "ixknm";
         echo "wxhhq";
         echo "qhgjl";
-        echo "kurtq";
 ?>
