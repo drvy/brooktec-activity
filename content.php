@@ -308,5 +308,4 @@
         echo "ekdcm";
         echo "hkwel";
         echo "lqpaf";
-        echo "takex";
 ?>
