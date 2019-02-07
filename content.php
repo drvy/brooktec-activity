@@ -309,6 +309,4 @@
         echo "hkwel";
         echo "gfrra";
         echo "vxfri";
-        echo "bsjae";
-        echo "iytyu";
 ?>
