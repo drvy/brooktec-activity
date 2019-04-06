@@ -319,5 +319,4 @@
         echo "yugak";
         echo "nrymp";
         echo "tprjn";
-        echo "ynnxa";
 ?>
