@@ -317,5 +317,4 @@
         echo "ocvra";
         echo "wfxxd";
         echo "yugak";
-        echo "nrymp";
 ?>
