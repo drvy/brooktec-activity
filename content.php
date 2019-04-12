@@ -349,6 +349,4 @@
         echo "lqthw";
         echo "vusgm";
         echo "upcds";
-        echo "iavwl";
-        echo "yoqdd";
 ?>
