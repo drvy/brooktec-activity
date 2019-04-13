@@ -346,7 +346,4 @@
         echo "ttedn";
         echo "xcdyb";
         echo "vcetf";
-        echo "lqthw";
-        echo "vusgm";
-        echo "upcds";
 ?>
