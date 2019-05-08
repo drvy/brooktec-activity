@@ -402,5 +402,4 @@
         echo "katij";
         echo "lfbdi";
         echo "dohfc";
-        echo "wohih";
 ?>
