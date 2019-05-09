@@ -399,6 +399,4 @@
         echo "qqgnt";
         echo "texuf";
         echo "toyvc";
-        echo "katij";
-        echo "lfbdi";
 ?>
