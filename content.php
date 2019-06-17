@@ -513,6 +513,5 @@
         echo "majah";
         echo "atnth";
         echo "flmgt";
-        echo "wnydi";
-        echo "ludvc";
+        echo "nvmxt";
 ?>
