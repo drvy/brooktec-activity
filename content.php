@@ -532,5 +532,4 @@
         echo "yqvjl";
         echo "halko";
         echo "sword";
-        echo "neusg";
 ?>
