@@ -531,5 +531,4 @@
         echo "wnrdp";
         echo "yqvjl";
         echo "halko";
-        echo "sword";
 ?>
