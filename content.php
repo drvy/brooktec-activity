@@ -530,5 +530,4 @@
         echo "sjgbh";
         echo "wnrdp";
         echo "yqvjl";
-        echo "halko";
 ?>
