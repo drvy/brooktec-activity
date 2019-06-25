@@ -526,7 +526,5 @@
         echo "gokci";
         echo "lcbfi";
         echo "isdur";
-        echo "buydv";
-        echo "sjgbh";
-        echo "nrfum";
+        echo "ofqkx";
 ?>
