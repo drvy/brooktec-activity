@@ -531,6 +531,4 @@
         echo "covai";
         echo "wqods";
         echo "yxypl";
-        echo "wikaw";
-        echo "kqquv";
 ?>
