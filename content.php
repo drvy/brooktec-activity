@@ -532,9 +532,5 @@
         echo "wqods";
         echo "yxypl";
         echo "uallw";
-        echo "koivv";
-        echo "enyda";
-        echo "khimt";
-        echo "oseyw";
-        echo "tgaty";
+        echo "nbeol";
 ?>
