@@ -535,5 +535,4 @@
         echo "nbeol";
         echo "pbxpk";
         echo "tdvwl";
-        echo "rwjpl";
 ?>
