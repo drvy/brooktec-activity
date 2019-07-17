@@ -539,5 +539,4 @@
         echo "shpsh";
         echo "oblpj";
         echo "pyjhr";
-        echo "iqdrp";
 ?>
