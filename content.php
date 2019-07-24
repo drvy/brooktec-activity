@@ -568,5 +568,4 @@
         echo "vanxn";
         echo "vartg";
         echo "roenk";
-        echo "kubpc";
 ?>
