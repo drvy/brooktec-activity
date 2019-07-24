@@ -569,5 +569,4 @@
         echo "wxpqg";
         echo "hdhbc";
         echo "ropar";
-        echo "obmox";
 ?>
