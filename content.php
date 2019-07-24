@@ -567,5 +567,4 @@
         echo "lnycb";
         echo "vanxn";
         echo "vartg";
-        echo "roenk";
 ?>
