@@ -568,5 +568,4 @@
         echo "vanxn";
         echo "wxpqg";
         echo "hdhbc";
-        echo "ropar";
 ?>
