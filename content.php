@@ -580,6 +580,4 @@
         echo "ujfxd";
         echo "fcost";
         echo "idimo";
-        echo "bkiln";
-        echo "gpqle";
 ?>
