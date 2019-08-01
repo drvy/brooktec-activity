@@ -580,4 +580,5 @@
         echo "getvp";
         echo "mqyhl";
         echo "accsb";
+        echo "ciifc";
 ?>
