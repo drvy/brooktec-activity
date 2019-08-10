@@ -575,10 +575,5 @@
         echo "sipok";
         echo "khqwy";
         echo "cuhpx";
-        echo "owuwh";
-        echo "eacwf";
-        echo "getvp";
-        echo "mqyhl";
-        echo "accsb";
-        echo "ciifc";
+        echo "kykgi";
 ?>
