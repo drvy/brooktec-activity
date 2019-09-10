@@ -586,5 +586,4 @@
         echo "uspkr";
         echo "htkrs";
         echo "urukf";
-        echo "owoxc";
 ?>
