@@ -586,5 +586,4 @@
         echo "uspkr";
         echo "htkrs";
         echo "ymdgl";
-        echo "stbxc";
 ?>
