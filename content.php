@@ -586,8 +586,5 @@
         echo "uspkr";
         echo "htkrs";
         echo "ymdgl";
-        echo "accns";
-        echo "jaixb";
-        echo "ynpqh";
-        echo "jyifx";
+        echo "pfqwe";
 ?>
