@@ -596,5 +596,4 @@
         echo "fqvub";
         echo "aeiss";
         echo "ucbie";
-        echo "fismc";
 ?>
