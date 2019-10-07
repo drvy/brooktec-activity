@@ -595,5 +595,4 @@
         echo "nnrod";
         echo "fqvub";
         echo "lkxyn";
-        echo "npmin";
 ?>
