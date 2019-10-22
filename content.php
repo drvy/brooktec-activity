@@ -606,4 +606,5 @@
         echo "bqqns";
         echo "oaqlf";
         echo "xpnot";
+        echo "sfusr";
 ?>
