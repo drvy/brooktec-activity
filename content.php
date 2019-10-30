@@ -613,5 +613,4 @@
         echo "lhixv";
         echo "ecaxj";
         echo "mcwxo";
-        echo "hikba";
 ?>
