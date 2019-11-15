@@ -622,10 +622,4 @@
         echo "xibnr";
         echo "xykty";
         echo "ymgij";
-        echo "njqei";
-        echo "roict";
-        echo "mugvh";
-        echo "xdako";
-        echo "ghnvo";
-        echo "dwmyd";
 ?>
