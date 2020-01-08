@@ -634,4 +634,6 @@
         echo "swquh";
         echo "gwqdc";
         echo "wxwun";
+        echo "wmfnb";
+        echo "dmnbx";
 ?>
