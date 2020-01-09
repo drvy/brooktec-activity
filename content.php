@@ -630,10 +630,8 @@
         echo "dxbdj";
         echo "lrere";
         echo "hoymw";
-        echo "jlqgw";
-        echo "swquh";
-        echo "gwqdc";
-        echo "wxwun";
-        echo "wmfnb";
-        echo "dmnbx";
+        echo "gcwpr";
+        echo "ntcuj";
+        echo "rmfgd";
+        echo "thehk";
 ?>
