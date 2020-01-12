@@ -633,5 +633,4 @@
         echo "gcwpr";
         echo "ntcuj";
         echo "rmfgd";
-        echo "thehk";
 ?>
