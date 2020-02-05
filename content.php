@@ -642,4 +642,5 @@
         echo "xwdnc";
         echo "grvok";
         echo "xanjs";
+        echo "pixma";
 ?>
