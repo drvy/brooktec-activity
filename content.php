@@ -641,10 +641,4 @@
         echo "lbyhn";
         echo "xwdnc";
         echo "grvok";
-        echo "xanjs";
-        echo "pixma";
-        echo "xfmcf";
-        echo "fsrje";
-        echo "oxols";
-        echo "sbosq";
 ?>
