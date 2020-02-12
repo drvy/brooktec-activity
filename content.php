@@ -653,5 +653,4 @@
         echo "nlwrf";
         echo "pddru";
         echo "klhjg";
-        echo "lkwto";
 ?>
