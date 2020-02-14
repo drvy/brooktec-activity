@@ -661,5 +661,4 @@
         echo "whdcb";
         echo "yarml";
         echo "tmauw";
-        echo "ftplp";
 ?>
