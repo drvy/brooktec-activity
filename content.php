@@ -661,5 +661,4 @@
         echo "whdcb";
         echo "yarml";
         echo "ivvcx";
-        echo "alfnu";
 ?>
