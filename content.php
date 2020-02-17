@@ -664,5 +664,4 @@
         echo "alfnu";
         echo "eelea";
         echo "rweji";
-        echo "ukbtu";
 ?>
