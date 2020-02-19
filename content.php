@@ -659,9 +659,5 @@
         echo "jnmey";
         echo "fwipg";
         echo "whdcb";
-        echo "yarml";
-        echo "dumqx";
-        echo "yelvu";
-        echo "xqkcy";
-        echo "bxvcb";
+        echo "ipwfw";
 ?>
