@@ -667,5 +667,4 @@
         echo "ntypy";
         echo "eurdg";
         echo "qospl";
-        echo "ovlog";
 ?>
