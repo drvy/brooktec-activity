@@ -669,5 +669,4 @@
         echo "qospl";
         echo "ovlog";
         echo "yavqq";
-        echo "yfycl";
 ?>
