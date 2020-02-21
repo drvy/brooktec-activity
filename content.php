@@ -668,5 +668,4 @@
         echo "eurdg";
         echo "qospl";
         echo "ovlog";
-        echo "yavqq";
 ?>
