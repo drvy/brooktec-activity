@@ -666,5 +666,12 @@
         echo "bgdut";
         echo "ntypy";
         echo "tkpjx";
-        echo "wchpn";
+        echo "hcady";
+        echo "bjsbf";
+        echo "nyonc";
+        echo "eyuru";
+        echo "llalc";
+        echo "fybms";
+        echo "ymors";
+        echo "bnfiw";
 ?>
