@@ -692,5 +692,4 @@
         echo "uutbg";
         echo "nafnr";
         echo "ggqai";
-        echo "sxvec";
 ?>
