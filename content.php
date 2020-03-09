@@ -693,5 +693,4 @@
         echo "nafnr";
         echo "wlbyn";
         echo "omiay";
-        echo "ettmx";
 ?>
