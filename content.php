@@ -695,5 +695,4 @@
         echo "omiay";
         echo "qehgs";
         echo "bbchn";
-        echo "uplqn";
 ?>
