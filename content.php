@@ -708,4 +708,6 @@
         echo "pfkth";
         echo "srtnu";
         echo "ecnom";
+        echo "iwedx";
+        echo "iklqm";
 ?>
