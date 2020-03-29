@@ -720,5 +720,4 @@
         echo "wwvpj";
         echo "submq";
         echo "nfdni";
-        echo "yknqj";
 ?>
