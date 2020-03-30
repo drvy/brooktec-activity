@@ -723,5 +723,4 @@
         echo "srxjs";
         echo "kjjkd";
         echo "pulac";
-        echo "afrtw";
 ?>
