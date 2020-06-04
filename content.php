@@ -818,5 +818,4 @@
         echo "sjspn";
         echo "btons";
         echo "tcgtc";
-        echo "oxxor";
 ?>
