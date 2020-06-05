@@ -819,6 +819,4 @@
         echo "vtphh";
         echo "dgdvy";
         echo "udgpo";
-        echo "yfske";
-        echo "raqkt";
 ?>
