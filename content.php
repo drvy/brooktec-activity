@@ -890,5 +890,4 @@
         echo "styuk";
         echo "sngos";
         echo "mtusf";
-        echo "eaflt";
 ?>
