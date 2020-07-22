@@ -892,5 +892,4 @@
         echo "mheli";
         echo "yeboj";
         echo "shtoo";
-        echo "qltbi";
 ?>
