@@ -889,5 +889,4 @@
         echo "jegui";
         echo "styuk";
         echo "sngos";
-        echo "mtusf";
 ?>
