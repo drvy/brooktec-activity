@@ -891,5 +891,4 @@
         echo "sngos";
         echo "mheli";
         echo "yeboj";
-        echo "shtoo";
 ?>
