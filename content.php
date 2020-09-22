@@ -1018,5 +1018,4 @@
         echo "nuptc";
         echo "qsayx";
         echo "mfhts";
-        echo "uwdiv";
 ?>
