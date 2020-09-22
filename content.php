@@ -1018,9 +1018,5 @@
         echo "nuptc";
         echo "qsayx";
         echo "mfhts";
-        echo "pbqpa";
-        echo "ohyss";
-        echo "gcevh";
-        echo "aluob";
-        echo "qhgyr";
+        echo "uwdiv";
 ?>
