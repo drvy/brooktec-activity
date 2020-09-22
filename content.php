@@ -1019,5 +1019,4 @@
         echo "qsayx";
         echo "mfhts";
         echo "uwdiv";
-        echo "eaofu";
 ?>
