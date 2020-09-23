@@ -1017,5 +1017,4 @@
         echo "brndp";
         echo "nuptc";
         echo "qsayx";
-        echo "utpmo";
 ?>
