@@ -1015,6 +1015,5 @@
         echo "tvtgx";
         echo "fpdvd";
         echo "brndp";
-        echo "nuptc";
-        echo "qsayx";
+        echo "hchxn";
 ?>
