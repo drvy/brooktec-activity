@@ -1044,5 +1044,4 @@
         echo "eyjxh";
         echo "nfdpo";
         echo "kgllt";
-        echo "tegti";
 ?>
